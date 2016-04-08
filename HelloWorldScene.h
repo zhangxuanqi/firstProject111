@@ -5,7 +5,7 @@
 
 
 
-
+//测试 网页上修改代码 -------------------
 
 class HelloWorld : public cocos2d::Layer
 {
